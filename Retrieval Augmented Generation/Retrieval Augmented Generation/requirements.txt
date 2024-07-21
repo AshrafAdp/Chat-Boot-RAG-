@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+langchain
+openai
+langchain-community
+tiktoken
+faiss-cpu  # ou faiss-gpu selon votre choix
+SpeechRecognition 
+gtts
+PyAudio
